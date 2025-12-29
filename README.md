@@ -31,16 +31,12 @@ Transforming complex data into actionable business insights through analytics, m
 
 ### 🚀 Featured Projects
 
-🏥 **Healthcare Data Pipeline** - Automated ETL pipeline processing NYS Health Data using Python & AWS
-
-📡 **Telecom Network Analytics** - Power BI dashboard identifying 78% of service issues, improving performance by 35%
-
-🏥 **Patient Stay Prediction** - ML pipeline with AWS & Snowflake, 89% drift detection accuracy
-
-💳 **Fraud Detection System** - ML model achieving 93% accuracy using logistic regression & random forest
-
----
-
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏥 **[Healthcare Data Pipeline](https://github.com/Creator-456/healthcare-data-pipeline)** | Automated ETL pipeline processing NYS Health Data with interactive Tableau dashboards | Python, AWS, Tableau |
+| 📡 **[Telecom Network Analytics](https://github.com/Creator-456/telecom-network-analytics)** | Identified 78% of network issues, improved operator performance by 35% | Power BI, Python, SQL |
+| 🏥 **[Patient Stay Prediction](https://github.com/Creator-456/patient-stay-prediction)** | ML pipeline with 89% drift detection accuracy and automated redeployment | AWS, Snowflake, Python, ML |
+| 💳 **[Fraud Detection System](https://github.com/Creator-456/fraud-detection-ml)** | ML model achieving 93% accuracy using ensemble methods | Python, Scikit-learn, ML |
 ### 💼 Experience Highlights
 - **Business Analyst Intern** @ KCC Capital Partners - M&A financial modeling and market analysis
 - **Operations Coordinator** @ Utica University - Campus operations and compliance
